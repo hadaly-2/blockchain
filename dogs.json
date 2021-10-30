@@ -1,23 +1,23 @@
 [
 {
 	"id":0,
-	"name": "pinky",
+	"name": "nevado",
 	"description": "mestizo 3 años",
-	"image":
+	"image": "https://www.schnauzi.com/wp-content/uploads/2012/12/perro-mujer-narcolepsia3.png"
 
 },
 {
 	"id":1,
 	"name": "kio",
-	"description": "pastor catalán 6 años",
-	"image":
+	"description": "pastor catalán 5 años",
+	"image": "https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/5975458b5bafe8bca73c986a/gos-d-atura-catala-perro-pastor-catalan_0.jpg"
 
 },
 {
 	"id":2,
-	"name": "ventaiga",
+	"name": "campeón",
 	"description": "presa canario 9 años",
-	"image":
+	"image": "https://748253.smushcdn.com/2015617/wp-content/uploads/2019/10/3CEE8DD6-B225-4140-B078-67053F0A95AB.jpeg"
 
 }
 ]
